@@ -1,4 +1,4 @@
-import 'topic.dart';
+import 'package:flutter_app/model/topic.dart';
 
 class Forum {
   final String title;
